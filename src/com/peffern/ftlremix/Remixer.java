@@ -1,3 +1,5 @@
+package com.peffern.ftlremix;
+
 import java.awt.Component;
 import java.awt.Desktop;
 import java.awt.Dimension;
