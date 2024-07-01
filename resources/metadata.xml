@@ -1,0 +1,18 @@
+<metadata>
+    <title><![CDATA[ 744 Music Remix ]]></title>
+
+    <!-- No thread, this just links to the remix on Bandcamp -->
+    <threadUrl><![CDATA[ https://744music.bandcamp.com/album/ftl-remix-project ]]></threadUrl>
+
+    <author><![CDATA[ peffern ]]></author>
+
+    <version><![CDATA[ 1 ]]></version>
+
+    <description>
+        <![CDATA[
+Replaces the in-game music with tracks from the 744 Music FTL Remix project.
+
+Tracks with no remix version are not affected.
+]]>
+    </description>
+</metadata>

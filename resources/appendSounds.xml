@@ -1,0 +1,124 @@
+<FTL xmlns:mod="https://www.subsetgames.com/forum/viewtopic.php?t=17102">
+	<mod:findLike type="music">
+		<mod:findWithChildLike type="track" child-type="name">
+			<mod:selector>title</mod:selector>
+			<mod:findLike type="explore">
+				<mod:setValue>744_Music___FTL_Remix_Project___01_Cold_Boot__Space_Cruise_.ogg</mod:setValue>
+			</mod:findLike>
+		</mod:findWithChildLike>
+		<mod:findWithChildLike type="track" child-type="name">
+			<mod:selector>civilian</mod:selector>
+			<mod:findLike type="explore">
+				<mod:setValue>744_Music___FTL_Remix_Project___15_Friendly_Space__Civil_E_.ogg</mod:setValue>
+			</mod:findLike>
+			<mod:findLike type="combat">
+				<mod:setValue>744_Music___FTL_Remix_Project___02_Sector_1__Civil_.ogg</mod:setValue>
+			</mod:findLike>
+		</mod:findWithChildLike>
+		<mod:findWithChildLike type="track" child-type="name">
+			<mod:selector>engi</mod:selector>
+			<mod:findLike type="explore">
+				<mod:setValue>744_Music___FTL_Remix_Project___16_Virus__Engi_E_.ogg</mod:setValue>
+			</mod:findLike>
+			<mod:findLike type="combat">
+				<mod:setValue>744_Music___FTL_Remix_Project___03_Tetragon__Engi_.ogg</mod:setValue>
+			</mod:findLike>
+		</mod:findWithChildLike>
+		<mod:findWithChildLike type="track" child-type="name">
+			<mod:selector>cosmos</mod:selector>
+			<mod:findLike type="explore">
+				<mod:setValue>744_Music___FTL_Remix_Project___17_Plasma_Storm__Cosmos_E_.ogg</mod:setValue>
+			</mod:findLike>
+			<mod:findLike type="combat">
+				<mod:setValue>744_Music___FTL_Remix_Project___04_Hull_Breach__Cosmos_.ogg</mod:setValue>
+			</mod:findLike>
+		</mod:findWithChildLike>
+		<mod:findWithChildLike type="track" child-type="name">
+			<mod:selector>zoltan</mod:selector>
+			<mod:findLike type="explore">
+				<mod:setValue>744_Music___FTL_Remix_Project___18_The_Great_Eye__Zoltan_E_.ogg</mod:setValue>
+			</mod:findLike>
+			<mod:findLike type="combat">
+				<mod:setValue>744_Music___FTL_Remix_Project___05_Green_Energy__Zoltan_.ogg</mod:setValue>
+			</mod:findLike>
+		</mod:findWithChildLike>
+		<mod:findWithChildLike type="track" child-type="name">
+			<mod:selector>milkyway</mod:selector>
+			<mod:findLike type="explore">
+				<mod:setValue>744_Music___FTL_Remix_Project___19_Scrap_Recovery_Arm__MilkyWay_Lost_Ship_E_.ogg</mod:setValue>
+			</mod:findLike>
+			<mod:findLike type="combat">
+				<mod:setValue>744_Music___FTL_Remix_Project___06_Elnubnub_is_Gone__MilkyWay__Lost_Ship_.ogg</mod:setValue>
+			</mod:findLike>
+		</mod:findWithChildLike>
+		<mod:findWithChildLike type="track" child-type="name">
+			<mod:selector>mantis</mod:selector>
+			<mod:findLike type="explore">
+				<mod:setValue>744_Music___FTL_Remix_Project___20_Intruders_Detected__Mantis_E_.ogg</mod:setValue>
+			</mod:findLike>
+			<mod:findLike type="combat">
+				<mod:setValue>744_Music___FTL_Remix_Project___07_End_Run__Mantis_.ogg</mod:setValue>
+			</mod:findLike>
+		</mod:findWithChildLike>
+		<mod:findWithChildLike type="track" child-type="name">
+			<mod:selector>colonial</mod:selector>
+			<mod:findLike type="explore">
+				<mod:setValue>744_Music___FTL_Remix_Project___21_Rebel_Space__Colonial_E_.ogg</mod:setValue>
+			</mod:findLike>
+			<mod:findLike type="combat">
+				<mod:setValue>744_Music___FTL_Remix_Project___08_Rebel_Stronghold__Colonial_.ogg</mod:setValue>
+			</mod:findLike>
+		</mod:findWithChildLike>
+		<mod:findWithChildLike type="track" child-type="name">
+			<mod:selector>rock</mod:selector>
+			<mod:findLike type="explore">
+				<mod:setValue>744_Music___FTL_Remix_Project___22_The_Bulwark_Kinda_Sucks__Rockmen_E_.ogg</mod:setValue>
+			</mod:findLike>
+			<mod:findLike type="combat">
+				<mod:setValue>744_Music___FTL_Remix_Project___09_Grit__Rockmen_.ogg</mod:setValue>
+			</mod:findLike>
+		</mod:findWithChildLike>
+		<mod:findWithChildLike type="track" child-type="name">
+			<mod:selector>hacking</mod:selector>
+			<mod:findLike type="explore">
+				<mod:setValue>744_Music___FTL_Remix_Project___23_Drone_Schematic__Hacking_Malfunction_E_.ogg</mod:setValue>
+			</mod:findLike>
+			<mod:findLike type="combat">
+				<mod:setValue>744_Music___FTL_Remix_Project___10_Hacking_Destroyed__Hacking_Malfunction_.ogg</mod:setValue>
+			</mod:findLike>
+		</mod:findWithChildLike>
+		<mod:findWithChildLike type="track" child-type="name">
+			<mod:selector>slug</mod:selector>
+			<mod:findLike type="explore">
+				<mod:setValue>744_Music___FTL_Remix_Project___24_Pursuit_Doubled__Slug_Debris_E_.ogg</mod:setValue>
+			</mod:findLike>
+			<mod:findLike type="combat">
+				<mod:setValue>744_Music___FTL_Remix_Project___11_Dangers_of_the_Nebula__Slug__Debris_.ogg</mod:setValue>
+			</mod:findLike>
+		</mod:findWithChildLike>
+		<mod:findWithChildLike type="track" child-type="name">
+			<mod:selector>lostship</mod:selector>
+			<mod:findLike type="explore">
+				<mod:setValue>744_Music___FTL_Remix_Project___25_Out_of_Fuel__Lost_Ship_E_.ogg</mod:setValue>
+			</mod:findLike>
+			<mod:findLike type="combat">
+				<mod:setValue>744_Music___FTL_Remix_Project___12_Giant_Alien_Spiders__Lost_Ship_.ogg</mod:setValue>
+			</mod:findLike>
+		</mod:findWithChildLike>
+		<mod:findWithChildLike type="track" child-type="name">
+			<mod:selector>shrike</mod:selector>
+			<mod:findLike type="explore">
+				<mod:setValue>744_Music___FTL_Remix_Project___26_Consume__Lanius_E_.ogg</mod:setValue>
+			</mod:findLike>
+			<mod:findLike type="combat">
+				<mod:setValue>744_Music___FTL_Remix_Project___13_Oxygen_Critical__Lanius_.ogg</mod:setValue>
+			</mod:findLike>
+		</mod:findWithChildLike>
+		<mod:findWithChildLike type="track" child-type="name">
+			<mod:selector>laststand</mod:selector>
+			<mod:findLike type="explore">
+				<mod:setValue>744_Music___FTL_Remix_Project___14_One_Last_Explosion__Last_Stand__Victory_.ogg</mod:setValue>
+			</mod:findLike>
+		</mod:findWithChildLike>
+	</mod:findLike>
+</FTL>
