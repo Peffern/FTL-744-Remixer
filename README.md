@@ -1,5 +1,5 @@
 # FTL-744-Remixer
-Replace FTL in-game soundtrack with remix by 744 Music
+Replace FTL in-game soundtrack with [remix](https://744music.bandcamp.com/album/ftl-remix-project) by 744 Music
 
 ## Is the music included with the mod?
 No, I can't distribute the music. You have to get it separately from the artist's Bandcamp.
